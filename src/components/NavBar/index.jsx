@@ -6,7 +6,7 @@ export default function NavBar() {
     <header>
       <nav className="navbar">
         <div className="logo">
-          <NavLink to="/">alfatraining Movies</NavLink>
+          <NavLink to="/">Campus Talents Movies</NavLink>
         </div>
         <div className="menu">
           <ul>
